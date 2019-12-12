@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## [物联网学前班（IoT Preschool）](http://iot-preschool.com)
 
-You can use the [editor on GitHub](https://github.com/iot-preschool/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[IoT-Preschool（物联网学前班）](https://github.com/iot-preschool)项目主页，用于公告、学习和交流。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+物联网学前班计划建立 IoT Roadmap 并提供物联网学习教程和开源项目实践。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 学习交流
 
-```markdown
-Syntax highlighted code block
+- 主站：http://iot-preschool.com
+- QQ 群
 
-# Header 1
-## Header 2
-### Header 3
+![QQ 群：747048077](./images/iot-preschool-qrcode.png)
 
-- Bulleted
-- List
+- 微信公众号
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+公众号名称：物联网学前班
+公众号 ID：A1993013147
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![微信公众号：物联网学前班](./images/iot-preschool-wechat-gongzhonghoa.jpg)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iot-preschool/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
